@@ -9,7 +9,7 @@ phpBB Mandarin Chinese, Simplified Script for phpBB 3.2.x
 
 # phpBB 简体中文支持社区
 
-包括 phpBB 3.3.x, phpBB 3.2.x, phpBB 3.1.x, phpBB 3.0.x，四个版本的中文简体的官方支持论坛
+包括 phpBB 4.x, phpBB 3.3.x, phpBB 3.2.x, phpBB 3.1.x, phpBB 3.0.x，五个版本的中文简体的官方支持论坛
 
 https://www.phpbbchinese.com/
 
@@ -17,7 +17,7 @@ https://www.phpbbchinese.com/
 
 # Copyright
 All the translatios in this project are done by phpbbchinese.com.
-Copyright(c) 2015 - 2018 phpbbchinese.com All Rights Reserved. 
+Copyright(c) 2015 - 2021 phpbbchinese.com All Rights Reserved. 
 
 # License
 
