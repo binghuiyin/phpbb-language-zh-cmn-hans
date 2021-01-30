@@ -3,7 +3,7 @@
 phpBB 官方认可 简体中文语言包
 https://www.phpbb.com/customise/db/translation/mandarin_chinese_simplified_script/
 
-phpBB Mandarin Chinese, Simplified Script for phpBB 3.2.x
+phpBB Mandarin Chinese, Simplified Script for phpBB 3.3.x， phpBB 3.2.x
 
  :+1:
 
